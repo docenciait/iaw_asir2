@@ -522,3 +522,4 @@ UNIDAD 11. IMPLANTACIÓN DE APLICACIONES DE OFIMÁTICA WEB
 * **Implantación de Aplicaciones Web**, Jorge Sánchez Asenjo. Garceta
 * **Materiales Curriculares Libres**. (http://mclibre.org), Bartolomé Sintes Marco. CC
 * **Programming PHP. Creating Dynamic Web Pages. ** Kevin Tatroe, Peter MacIntyre. O'Reilly Media.
+* **Curso de Aplicaciones Web. Apuntes**. Juán Pavón Mestras. Facultad Informática. UCM. CC.
