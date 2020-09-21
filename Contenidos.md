@@ -47,7 +47,17 @@
 * Google App Engine (en el futuro)
 * Servidores Propios
 
+## Gestión de Versiones, Documental y de Aulas
 
+* github: http://https://github.com/IESLuisBraille/iaw_asir2
+
+* github classroom
+
+* Aula Virtual Moodle
+
+* Google Apps / Docs
+
+  
 
 ```
 ### UNIDAD 1. CONCEPTOS SOBRE APLICACIONES WEB
@@ -95,9 +105,7 @@
 
   1.8 APLICACIONES WEB Y APLICACIONES MÓVILES (APPS)
 
-
-
-### UNIDAD 2. PREPARACIÓN DEL ENTORNO DE TRABAJO
+ UNIDAD 2. PREPARACIÓN DEL ENTORNO DE TRABAJO
 
 2.1 ELEMENTOS NECESARIOS PARA CREAR APLICACIONES WEB
 
@@ -465,7 +473,7 @@ UNIDAD 11. IMPLANTACIÓN DE APLICACIONES DE OFIMÁTICA WEB
 11.2.1 VENTAJAS DE LAS HERRAMIENTAS DE OFIMÁTICA WEB
 11.2.2 DESVENTAJAS DE LAS HERRAMIENTAS DE OFIMÁTICA WEB
 11.2.3 CONSECUENCIAS DE LAS VENTAJAS Y LAS DESVENTAJAS
-11.3 SOLUCIONES DE OFIMÁTICA WEB
+11.3 SOLUCIONES DE OFIMÁTICA WEB`
 11.3.1 GOOGLE DOCS. GOOGLE APPS
 11.3.2 MICROSOFT OFFICE ONLINE. MICROSOFT OFFICE 365
 11.3.3 ZOHO DOCS
@@ -480,7 +488,31 @@ UNIDAD 11. IMPLANTACIÓN DE APLICACIONES DE OFIMÁTICA WEB
 11.5 PRÁCTICAS PROPUESTAS
 11.6 RESUMEN DE LA UNIDAD
 11.7 TEST DE REPASO
-
-
 ```
 
+### Metodología
+
+* Clases divididas en dos Subgrupos 1 y 2
+* Se impartián las clases expositivas de los temas  para ambos subgrupos
+* Los contenidos serán los mismos impartidos a cada subgrupo durante la semana, dejando el resto para prácticas y ejercicios.
+* Se fomentará el trabajo individual y el trabajo colectivo en pequeños grupos de trabajo
+* Se van a utlizar herramientas como Meet, github, etc. que permitirán el trabajo colaborativo entre docencia/alumno , alumno/alumno.
+* Aunque un Subgrupo vaya a clase también habrá trabajo impuesto al otro Subgrupo 
+
+
+
+## Proceso de Evaluación/Calificación del Módulo
+
+* Exisitirán una serie de ejercicios, prácticas, etc. que serán recomendables realizar pero no obligatorios para calificación. Dichos trabajos serán revsisados por el docente mediante un APTO o NO APTO para que el alumno pueda ir verificando su proceso de enseñanza aprendizaje a lo largo del curso.
+
+* Se realizarán **laboratorios prácticos** con una calificación de 0 a 10 y con un porcentaje sobre la nota trimestral aún por determinar. Dichos labs serán realizados de manera presencial y telemática simultáneamente con las medidas pertinentes para verificación de las pruebas. 
+
+* Al final del trimestre se raelizará una prueba práctica escrita/computador sobre los contenidos vistos durante el trimestre con porcentaje a determinar.
+
+* Si la suma de ambas ponderaciones es 5 ó más el trimestre estará superado en caso contrario será no superado y se deberá presentar a la prueba **Ordinaria de Marzo**.
+
+* La prueba Ordinaria de Marzo está compuesta de dos partes divididas en trimestres. Esa prueba para se superada deben de calificar un 5 en cada parte. 
+
+* En caso de no superar la Prueba Ordinaria se realizará la recuperación de la/s parte/s pendiente/s en el Extraordinario de Junio.
+
+  
