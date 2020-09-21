@@ -516,3 +516,9 @@ UNIDAD 11. IMPLANTACIÓN DE APLICACIONES DE OFIMÁTICA WEB
 * En caso de no superar la Prueba Ordinaria se realizará la recuperación de la/s parte/s pendiente/s en el Extraordinario de Junio.
 
   
+
+## Bibliografía
+
+* **Implantación de Aplicaciones Web**, Jorge Sánchez Asenjo. Garceta
+* **Materiales Curriculares Libres**. (http://mclibre.org), Bartolomé Sintes Marco. CC
+* **Programming PHP. Creating Dynamic Web Pages. ** Kevin Tatroe, Peter MacIntyre. O'Reilly Media.
