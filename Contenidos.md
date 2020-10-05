@@ -3,7 +3,6 @@
 ### Docencia: Iván J.U.
 ### Curso 2020/2021
 ---
-
 ## Secuenciación
 
 * 100 horas
