@@ -1,6 +1,6 @@
 # ASIR2 - IMPLANTACIÓN DE APLICACIONES WEB
 
-# TEMA 1
+# TEMA 2
 
 <span class="header-section-number">1</span> Práctica 1: LAMP Stack (Teoría)
 ============================================================================
