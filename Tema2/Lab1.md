@@ -52,7 +52,7 @@ El documento debe incluir **como mínimo** lo siguientes contenidos:
 -   Descripción de la instalación de [Apache HTTP Server](https://httpd.apache.org), [PHP](http://www.php.net), [MySQL Server](https://www.mysql.com),
     [phpMyAdmin](https://www.phpmyadmin.net) en Ubuntu Server 20.04.
     
--   Descripción de la instalación de la [aplicación web propuesta](https://github.com/josejuansanchez/iaw-practica-lamp).
+-   Descripción de la instalación de la [aplicación web propuesta](https://github.com/IESLuisBraille/iaw_asir2/tree/master/Tema2/iaw-practica-lamp).
     
 -   Descripción de la instalación de [Adminer](https://www.adminer.org).
 
