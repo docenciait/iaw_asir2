@@ -565,6 +565,14 @@ usando Git.
 Nos situamos dentro del directorio de `phpmyadmin` que es donde estará el archivo `composer.json` con todas las dependencias que necesitamos
 instalar.
 
+**Otra opción** es crear el projecto con Composer en la ubicación deseada:
+
+```
+composer create-project phpmyadmin/phpmyadmin
+```
+
+Y continuamos:
+
     cd phpmyadmin
 
 Instalamos las dependencias con la herramienta `composer`.
@@ -576,8 +584,21 @@ modificador `--no-dev`.
 
     composer update --no-dev
 
-Puede encontrar más información en la [documentación oficial de
-phpMyAdmin](https://docs.phpmyadmin.net/es/latest/setup.html).
+
+
+No obstante, antes de utilizar composer nos pueden salir errores de dependencias referentes a módulos php para apache, por lo cual, es necesario instalar algunas librerías adicionales para que funcione:
+
+```
+sudo apt install php-xml php-curl php-zip php-mbstring  
+
+# Después ya se puede
+cd /var/www/phpmyadmin
+composer update
+```
+
+Ya se puede configurar accediendo a la ruta del servidor web:
+
+Puedes encontrar más información en la [documentación oficial de phpMyAdmin](https://docs.phpmyadmin.net/es/latest/setup.html).
 
 ### <span class="header-section-number">6.1.2</span> Instalación de `composer` desde la web oficial y `phpMyAdmin`
 
